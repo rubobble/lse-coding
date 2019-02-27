@@ -1,0 +1,33 @@
+body {
+    background-color: #636166;
+    color:#9e97a8;
+    font-family: arial;
+    border: solid 3px;
+    padding: 50px;
+}
+
+div {
+  padding: 10px;
+}
+
+h1,h2 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 5em;
+}
+
+img {
+  height:150px;
+  width: 200px;
+}
+
+#paracolor{
+  color: #3f2f5b;
+}
+
+.picture{
+  padding: 20px;
+}
